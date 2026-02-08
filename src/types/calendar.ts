@@ -101,8 +101,8 @@ export interface CalendarSettings {
   astreintePonctuelleColor: string;
   eventColor: string;
   vacationColor: string;
-  reColor: string;  // Couleur RE (repos/récupération) - grisage case
-  cpColor: string;  // Couleur CP (congés payés) - plus foncée que RE
+  reColor: string;   // Couleur RE (repos/récupération) - grisage case
+  cpColor: string;   // Couleur CP (congés payés) - plus foncée que RE
   // Couleurs par tranche - Arrêts
   arretTr2Color: string;
   arretTr3Color: string;
